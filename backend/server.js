@@ -12,8 +12,11 @@ require("./config/db")();
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
-//custom middlewares
+//routes
 app.use("/api/goals", require("./routes/goalRoutes"));
+app.use("/api/users", require("./routes/userRoutes"));
+
+//custom middlewares
 app.use(require("./middlewares/handleErrors"));
 
 //listing to the server
