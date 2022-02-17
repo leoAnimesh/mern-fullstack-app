@@ -1,11 +1,10 @@
 ## A Full stack MERN application
 
-by Traversy Media
+by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
-✅ Part 1 : Creation of the REST API
-Part 2 : JWT Authentication
-Part 3 : Frontend Authentication
-
-<a href="https://www.youtube.com/playlist?list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm" traget="_blank" > 🔗 PlayList Link</a>
+- [x] Part 1 : Creation of the REST API
+- [ ] Part 2 : JWT Authentication
+- [ ] Part 3 : Frontend Authentication
+- [ ] Part 4 : Final & Deploy
 
 😄 Learning a lot from this
